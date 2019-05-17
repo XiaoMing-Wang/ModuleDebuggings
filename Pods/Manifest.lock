@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Bugly (2.5.0)
+  - CTMediator (25)
+  - MJRefresh (3.1.15.7)
+  - ReactiveObjC (3.1.1)
+  - Realm (3.15.0):
+    - Realm/Headers (= 3.15.0)
+  - Realm/Headers (3.15.0)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - Bugly (~> 2.5.0)
+  - CTMediator
+  - MJRefresh (~> 3.1.15.6)
+  - ReactiveObjC (~> 3.1.1)
+  - Realm (~> 3.15.0)
+  - SDWebImage (~> 4.4.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Bugly
+    - CTMediator
+    - MJRefresh
+    - ReactiveObjC
+    - Realm
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  Realm: 9b834e1be6062f544805252c812348872dc5d4ed
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+
+PODFILE CHECKSUM: 64654ae760115a6c1f971457d6e42b6ac252064e
+
+COCOAPODS: 1.6.1
